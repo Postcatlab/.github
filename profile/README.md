@@ -1,7 +1,7 @@
 # Postcat API Client
 
 ![Postcat API Client](http://data.eolinker.com/course/QbLMSaJ7f3dcd0b075a7031b31f8acb486e0a090f1bdc8d.jpeg)
-<p align="center"><span>English</span> | <a href="/README.md">简体中文</a></p>
+<p align="center"><span>English</span> | <a href="https://github.com/Postcatlab/postcat/blob/main/README.md">简体中文</a></p>
 
 Postcat is a powerful open source, cross-platform (Windows, Mac, Linux, Browsers...) API development and testing tool that supports REST, Websocket and other protocols (soon to support GraphQL, gRPC, TCP, UDP), helping you speed up the completion of API Development and testing work.
 
